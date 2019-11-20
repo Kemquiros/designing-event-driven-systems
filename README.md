@@ -1,4 +1,4 @@
-* Concepts and Patterns for Streaming Services with Apache Kafka
+# Concepts and Patterns for Streaming Services with Apache Kafka
 
 > Many forces affect software today: larger datasets, geographical disparities, complex company structures, and the growing need to be fast and nimble in the face of change.
 
